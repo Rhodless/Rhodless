@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rhodless
 
-<p align="left"> <a href="https://twitter.com/Rhodless" target="_BLANK" ><img src="https://img.shields.io/twitter/follow/rhodless?logo=twitter&style=for-the-badge" alt="rhodless" /> </a> 
-<a href="https://github.com/Lyneris" target="_BLANK" ><img src="https://img.shields.io/badge/Lyneris-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="rhodless" /> </a>
-<a href="https://discord.gg/22rWtFyNdF" target="_BLANK" ><img src="https://img.shields.io/badge/project-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="rhodless" /> </a> </p>
+<p align="left"> <a href="https://twitter.com/Rhodless" target="_blank" ><img src="https://img.shields.io/twitter/follow/rhodless?logo=twitter&style=for-the-badge" alt="rhodless" /> </a> 
+<a href="https://github.com/Lyneris" target="_blank" ><img src="https://img.shields.io/badge/Lyneris-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="rhodless" /> </a>
+<a href="https://discord.gg/22rWtFyNdF" target="_blank" ><img src="https://img.shields.io/badge/project-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="rhodless" /> </a> </p>
 
 <h4 align="left">About me:</h4>
 I'm a french developer since 2017, I started coding by myself using online lessons. I am 17 years old and in my last year of high school. I mainly master the Java language, and I mainly use the Spigot api. I have good knowledge of MongoDB, Redis and MySQL.
