@@ -17,7 +17,6 @@ I'm a french developer since 2017, I started coding by myself using online lesso
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="rhodless" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="rhodless" />
 </p>
 
 
@@ -27,12 +26,6 @@ I'm a french developer since 2017, I started coding by myself using online lesso
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="rhodless" />
 </p>
-
-<h4 align="left">Contact Me:</h4>
-<p align="left"> 
-  <a href="#" target="_blank" ><img src="https://img.shields.io/badge/Rhodless-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="rhodless" />  
-  <a href="#" target="_blank" ><img src="https://img.shields.io/badge/Rhodless%230001-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="rhodless" />
-  </p>
   
 <h4 align="left">Statistics:</h4>
 <p><img align="" src="https://github-readme-stats.vercel.app/api?username=rhodless&show_icons=true&theme=dark" alt="rhodless" /></p>
