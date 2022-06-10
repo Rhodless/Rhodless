@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Rhodless
-
-<p align="left"> <a href="https://twitter.com/Rhodless" target="_blank" ><img src="https://img.shields.io/twitter/follow/rhodless?logo=twitter&style=for-the-badge" alt="rhodless" /> </a> 
+<p align="left"> <a href="" /> 
+  <img src="https://komarev.com/ghpvc/?username=Rhodless&style=for-the-badge" alt="rhodless" />
+  <a href="https://twitter.com/Rhodless" target="_blank" >
+  <img src="https://img.shields.io/twitter/follow/rhodless?logo=twitter&style=for-the-badge" alt="rhodless" /> 
+</a> 
 
 <h4 align="left">About me:</h4>
 I'm a french developer since 2017, I started coding by myself using online lessons. I am 17 years old and in my last year of high school. I mainly master the Java language, and I mainly use the Spigot api. I have good knowledge of MongoDB, Redis and MySQL.
@@ -27,3 +30,5 @@ I'm a french developer since 2017, I started coding by myself using online lesso
   
 <h4 align="left">Statistics:</h4>
 <p><img align="" src="https://github-readme-stats.vercel.app/api?username=rhodless&show_icons=true&theme=dark" alt="rhodless" /></p>
+
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
