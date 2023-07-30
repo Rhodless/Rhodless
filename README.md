@@ -2,7 +2,7 @@
 <p align="left"> <a href="" /> 
   <img src="https://komarev.com/ghpvc/?username=Rhodless&style=for-the-badge" alt="rhodless" />
   <a href="https://twitter.com/Rhodless" target="_blank" >
-  <img src="https://img.shields.io/twitter/follow/rhodless?logo=twitter&style=for-the-badge" alt="rhodless" /> 
+  <img src="https://img.shields.io/twitter/follow/rhodless?logo=twitter&style=for-the-badge" alt="390" /> 
 </a> 
 
 <h4 align="left">About me:</h4>
