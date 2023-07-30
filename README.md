@@ -8,7 +8,7 @@ I'm a french developer since 2017, I started coding by myself using online lesso
 
 <h4 align="left">My Knowledge:</h4>
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java8&logoColor=white" alt="rhodless" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="rhodless" />
@@ -17,7 +17,6 @@ I'm a french developer since 2017, I started coding by myself using online lesso
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/rabbitmq-%2300f.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rhodless" />
-  <img src="https://img.shields.io/badge/hazelcast.svg?style=for-the-badge&logo=hazelcast&logoColor=white" alt="rhodless" />
 </p>
 
 
