@@ -8,12 +8,14 @@
 <h4 align="left">🛠️ My Tools:</h4>
 <p align="left"> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="rhodless" />
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="rhodless" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="rhodless" />
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="rhodless" />
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="rhodless" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&color=black" alt="rhodless" />
+  <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&color=black" alt="rhodless" />
 </p>
-
 <h4 align="left">📊 GitHub Stats:</h4>
+
 ![](https://github-readme-stats.vercel.app/api?username=Rhodless&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
