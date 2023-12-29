@@ -19,4 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rhodless&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rhodless&style=for-the-badge)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=Rhodless&style=for-the-badge)<br/>
